@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## How to create a Token?
+
 
 You can use the [editor on GitHub](https://github.com/tokengeneratetool/tokengeneratetool.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
