@@ -1,9 +1,11 @@
 ## How to create a Token?
 
 
-You can use the [editor on GitHub](https://github.com/tokengeneratetool/tokengeneratetool.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Without any programming skills, You can easily generator token in a matter of minutes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you’re looking for a platform with low fees, fast transaction times, and smart contract compatibility, then look no further than Binance Smart Chain (BSC).
+
+Below we demonstrate the creation of BEP20 Token in Chrome browser
 
 ### Markdown
 
