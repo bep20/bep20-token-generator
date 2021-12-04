@@ -6,6 +6,7 @@ Without any programming skills, You can easily generator token in a matter of mi
 If you’re looking for a platform with low fees, fast transaction times, and smart contract compatibility, then look no further than Binance Smart Chain (BSC).
 
 Below we demonstrate the creation of BEP20 Token in Chrome browser
+[url=https://www.hizliresim.com/1emmmeu][img]https://i.hizliresim.com/1emmmeu.jpg[/img][/url]
 
 ### Markdown
 
