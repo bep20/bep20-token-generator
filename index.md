@@ -7,7 +7,8 @@ We will tell you how to create your own token in minutes without any code knowle
 Below we demonstrate the creation of BEP20 Token in Chrome browser
 <br>
 <br>
-Open a website  <a href="https://tokengeneratetool.com/">tokengeneratetool.com</a>
+
+<h4 id="Open-a-website-https://tokengeneratetool.com/"> Open a website <a href="https://tokengeneratetool.com/" target="_blank">https://tokengeneratetool.com/</a></h4>
 <br>
 <br>
 
@@ -126,7 +127,7 @@ The good news is you can now manage and use your token as you wish.
 
 <br>
 <br>
-Try it now <a href="https://tokengeneratetool.com/">tokengeneratetool.com</a>
+Try it now <h4 id="https://tokengeneratetool.com/"> <a href="https://tokengeneratetool.com/" target="_blank">https://tokengeneratetool.com/</a></h4>
 
 
 You can create tokens in the same way in the networks written below on the site.
