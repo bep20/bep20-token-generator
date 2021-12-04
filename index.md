@@ -7,7 +7,8 @@ If you’re looking for a platform with low fees, fast transaction times, and sm
 
 Below we demonstrate the creation of BEP20 Token in Chrome browser
 
-1. open a website https://tokengeneratetool.com/
+1. open a website  <a href="https://tokengeneratetool.com/">tokengeneratetool.com</a>
+
 2. 2. Connect Wallet
 3. 3. Switch the MetaMask network to BSC Mainnet Network
 4. 4. Fill in the token information to be created
