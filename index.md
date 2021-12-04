@@ -7,6 +7,7 @@ If you’re looking for a platform with low fees, fast transaction times, and sm
 
 Below we demonstrate the creation of BEP20 Token in Chrome browser
 [url=https://www.hizliresim.com/1emmmeu][img]https://i.hizliresim.com/1emmmeu.jpg[/img][/url]
+![3](https://user-images.githubusercontent.com/95532370/144712412-d41468da-d7e0-4cb7-abe8-3118c9f7bff4.jpg)
 
 ### Markdown
 
