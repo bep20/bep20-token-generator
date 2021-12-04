@@ -1,22 +1,25 @@
 ## How to create a Token?
 
 
-Without any programming skills, You can easily generator token in a matter of minutes
+We will tell you how to create your own token in minutes without any code knowledge
 
-If you’re looking for a platform with low fees, fast transaction times, and smart contract compatibility, then look no further than Binance Smart Chain (BSC).
 
 Below we demonstrate the creation of BEP20 Token in Chrome browser
-
+<br>
+<br>
 Open a website  <a href="https://tokengeneratetool.com/">tokengeneratetool.com</a>
+<br>
+<br>
 
-
+1- Click  Binance Smart Chain (Bep20)
+<br>
+<br>
 
 
 
 ![b1](https://user-images.githubusercontent.com/95532370/144713439-1b835d6c-0a2e-4cc9-8b36-6ca429d166e6.JPG)
 
 
-1- Click  Binance Smart Chain (Bep20)
 
 
 
@@ -26,7 +29,8 @@ Open a website  <a href="https://tokengeneratetool.com/">tokengeneratetool.com</
 
 
 2- Fill in the token information to be created
-
+<br>
+<br>
 
 
 
@@ -35,7 +39,8 @@ Open a website  <a href="https://tokengeneratetool.com/">tokengeneratetool.com</
 
 
 3- Pay the service fee and gas fee
-
+<br>
+<br>
 
 
 
@@ -44,7 +49,8 @@ Open a website  <a href="https://tokengeneratetool.com/">tokengeneratetool.com</
 
 
 4- Do not interfere with the screen at this stage, just wait.
-
+<br>
+<br>
 
 
 
@@ -53,7 +59,8 @@ Open a website  <a href="https://tokengeneratetool.com/">tokengeneratetool.com</
 
 
 5- You will see information about the created token.
-
+<br>
+<br>
 
 
 
@@ -61,7 +68,8 @@ Open a website  <a href="https://tokengeneratetool.com/">tokengeneratetool.com</
 
 
 6- Add the token to your metamask wallet
-
+<br>
+<br>
 
 
 
@@ -76,10 +84,60 @@ Open a website  <a href="https://tokengeneratetool.com/">tokengeneratetool.com</
 ![b11](https://user-images.githubusercontent.com/95532370/144713495-f8b65d61-9876-4690-96fc-c4b842ff7abe.JPG)
 
 
+7- Verify Source Code
+<br>
+<br>
 
 
 
 
+![b12](https://user-images.githubusercontent.com/95532370/144714662-b201cb79-6091-480e-b78e-f58b7c0a03e9.JPG)
+
+
+8- Paste the source code you have taken from the site in the relevant place
+<br>
+<br>
+
+
+
+![b13](https://user-images.githubusercontent.com/95532370/144714709-7ac2aa37-85bc-414c-9a97-e0726fe6a3c3.JPG)
+
+
+9- Confirm your verify source code operation from the button at the bottom
+<br>
+<br>
+
+
+
+
+
+![b14](https://user-images.githubusercontent.com/95532370/144714815-3b7f4b50-68f6-4529-a79e-b339d66fdbf3.JPG)
+
+
+The good news is you can now manage and use your token as you wish.
+<br>
+<br>
+
+
+
+![b15](https://user-images.githubusercontent.com/95532370/144714963-75288a47-39cb-4bd6-bf4a-772486ca1bc1.JPG)
+
+
+
+<br>
+<br>
+Try it now <a href="https://tokengeneratetool.com/">tokengeneratetool.com</a>
+
+
+You can create tokens in the same way in the networks written below on the site.
+
+
+Ethereum Network, Avalance C Chain , Polygon Network, Heco Chain Network, Fantom Opera Network, Arbitrum Network 
+
+<br>
+<br>
 ### Support or Contact
+<br>
+<br>
 
 Having trouble with Pages?  [contact support](https://tokengeneratetool.com/en/contact-p-47) and we’ll help you sort it out.
