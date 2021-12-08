@@ -8,7 +8,7 @@ Below we demonstrate the creation of BEP20 Token in Chrome browser
 <br>
 <br>
 
-<h4 id="Open-a-website-https://tokengeneratetool.com/"> Open a website <a href="https://tokengeneratetool.com/" target="_blank">https://tokengeneratetool.com/</a></h4>
+<h4 id="Open-a-website-https://lgctoken.com/"> Open a website <a href="https://lgctoken.com.com/" target="_blank">https://createmytoken.net/</a></h4>
 <br>
 <br>
 
@@ -127,7 +127,7 @@ The good news is you can now manage and use your token as you wish.
 
 <br>
 <br>
-Try it now <h4 <a href="https://tokengeneratetool.com/" target="_blank">https://tokengeneratetool.com/</a></h4>
+Try it now <h4 <a href="https://createmytoken.net/" target="_blank">https://createmytoken.net/</a></h4>
 
 
 You can create tokens in the same way in the networks written below on the site.
@@ -141,4 +141,4 @@ Ethereum Network, Avalance C Chain , Polygon Network, Heco Chain Network, Fantom
 <br>
 <br>
 
-Having trouble with Pages?  [contact support](https://tokengeneratetool.com/en/contact-p-47) and we’ll help you sort it out.
+Having trouble with Pages?  [contact support](https://createmytoken.net/contact) and we’ll help you sort it out.
