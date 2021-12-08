@@ -45,15 +45,6 @@ Below we demonstrate the creation of BEP20 Token in Chrome browser
 ![b4](https://i.imgur.com/vN0uMDV.png)
 
 
-4- Do not interfere with the screen at this stage, just wait.
-<br>
-<br>
-
-
-
-
-![b7](https://i.imgur.com/vN0uMDV.png)
-
 
 5- You will see information about the created token.
 <br>
