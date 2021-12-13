@@ -12,13 +12,13 @@ Below we demonstrate the creation of BEP20 Token in Chrome browser
 <br>
 <br>
 
-1- Click  Binance Smart Chain (BEP2020)
+1- Choose ( BEP20 For Binance Smart Chain )  Or ( ERC20 For Etherum Chain )
 <br>
 <br>
 
 
 
-![b1](https://i.imgur.com/0MvEaAn.png)
+![b1](https://i.imgur.com/gPFMZDY.png)
 
 
 
