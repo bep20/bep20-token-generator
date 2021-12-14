@@ -54,7 +54,7 @@ Below we demonstrate the creation of BEP20 Token in Chrome browser
 
 
 
-![b9](https://i.imgur.com/OnWBB3U.png)
+![b9](https://i.imgur.com/Mt91sGi.png)
 
 
 
