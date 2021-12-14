@@ -8,7 +8,7 @@ Below we demonstrate the creation of BEP20 Token in Chrome browser
 <br>
 <br>
 
-<h4 id="Open-a-website-https://createmytoken.net/"> Open a website <a href="https://createmytoken.net/" target="_blank">https://createmytoken.net/</a></h4>
+<h4 id="Open-a-website-https://bep20token.net/"> Open a website <a href="https://bep20token.net/" target="_blank">https://bep20token.net/</a></h4>
 <br>
 <br>
 
@@ -18,35 +18,37 @@ Below we demonstrate the creation of BEP20 Token in Chrome browser
 
 
 
-![b1](https://i.imgur.com/gPFMZDY.png)
+![b1](https://i.imgur.com/PIkcC28.png)
 
 
 
 
 
 
-2- Fill in the token information to be created
+2- Enter your preferred Token name and symbol. Choose your supply and Token type.
+
 <br>
 <br>
 
 
 
 
-![b3](https://i.imgur.com/4fogCnd.png)
+![b3](https://i.imgur.com/XUKZpaF.png)
 
 
-3- Pay the service fee and gas fee
+3- Confirm your transaction using MetaMask.
+
 <br>
 <br>
 
 
 
 
-![b4](https://i.imgur.com/vN0uMDV.png)
+![b4](https://i.imgur.com/fJYRIrY.png)
 
 
 
-5- You will see information about the created token.
+5- Your token is ready to use, view on BscScan or add to MetaMask.
 <br>
 <br>
 
@@ -66,7 +68,7 @@ The good news is you can now manage and use your token as you wish.
 
 <br>
 <br>
-Try it now <h4 <a href="https://createmytoken.net/" target="_blank">https://createmytoken.net/</a></h4>
+Try it now <h4 <a href="https://bep20token.net/" target="_blank">https://bep20token.net/</a></h4>
 
 
 You can create tokens in the same way in the networks written below on the site.
@@ -80,4 +82,4 @@ Ethereum Network, Avalance C Chain , Polygon Network, Heco Chain Network, Fantom
 <br>
 <br>
 
-Having trouble with Pages?  [contact support](https://createmytoken.net/contact) and we’ll help you sort it out.
+Having trouble with Pages?  [contact support](https://bep20token.net/) and we’ll help you sort it out.
