@@ -8,53 +8,85 @@ Below we demonstrate the creation of BEP20 Token in Chrome browser
 <br>
 <br>
 
-<h4 id="Open-a-website-https://bep20token.net/"> Open a website <a href="https://bep20token.net/" target="_blank">https://bep20token.net/</a></h4>
+<h4 id="Open-a-website-https://createmytoken.net/"> Open a website <a href="https://createmytoken.net/" target="_blank">https://createmytoken.net/</a></h4>
 <br>
 <br>
 
-1- Choose ( BEP20 For Binance Smart Chain )  Or ( ERC20 For Etherum Chain )
-<br>
-<br>
-
-
-
-![b1](https://i.imgur.com/PIkcC28.png)
-
-
-
-
-
-
-2- Enter your preferred Token name and symbol. Choose your supply and Token type.
-
+1-Click CREATE TOKEN
 <br>
 <br>
 
 
+![b1](https://i.imgur.com/Uq8tqwV.png)
 
 
-![b3](https://i.imgur.com/XUKZpaF.png)
 
 
-3- Confirm your transaction using MetaMask.
 
+2- Click  Binance Smart Chain (BEP2020)
 <br>
 <br>
 
 
 
-
-![b4](https://i.imgur.com/fJYRIrY.png)
-
+![b1](https://i.imgur.com/0MvEaAn.png)
 
 
-5- Your token is ready to use, view on BscScan or add to MetaMask.
+
+
+
+
+
+3- Fill in the token information to be created
 <br>
 <br>
 
 
 
-![b9](https://i.imgur.com/Mt91sGi.png)
+
+![b3](https://i.imgur.com/4fogCnd.png)
+
+
+
+
+
+
+
+4- Open Metamask and connect
+<br>
+<br>
+
+
+
+
+![b4](https://i.imgur.com/wU8ma5Y.png)
+
+![b4](https://i.imgur.com/VBRlEj4.png)
+
+
+
+
+
+
+
+5- Pay the service fee and gas fee
+<br>
+<br>
+
+
+
+
+![b4](https://i.imgur.com/vN0uMDV.png)
+
+
+
+6- You will see information about the created token.
+<br>
+<br>
+
+
+
+![b9](https://i.imgur.com/OnWBB3U.png)
 
 
 
@@ -68,7 +100,7 @@ The good news is you can now manage and use your token as you wish.
 
 <br>
 <br>
-Try it now <h4 <a href="https://bep20token.net/" target="_blank">https://bep20token.net/</a></h4>
+Try it now <h4 <a href="https://createmytoken.net/" target="_blank">https://createmytoken.net/</a></h4>
 
 
 You can create tokens in the same way in the networks written below on the site.
@@ -82,4 +114,4 @@ Ethereum Network, Avalance C Chain , Polygon Network, Heco Chain Network, Fantom
 <br>
 <br>
 
-Having trouble with Pages?  [contact support](https://bep20token.net/) and we’ll help you sort it out.
+Having trouble with Pages?  [contact support](https://createmytoken.net/contact) and we’ll help you sort it out.
