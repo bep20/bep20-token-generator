@@ -37,7 +37,7 @@ Below we demonstrate the creation of BEP20 Token in Chrome browser
 
 
 
-3- Fill in the token information to be created
+3- Fill in the token information to be created , choose your functions burnable,mintable, tax fee to holders, tax fee to your wallet
 <br>
 <br>
 
