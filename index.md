@@ -23,7 +23,7 @@ Below we demonstrate the creation of BEP20 Token in Chrome browser
 
 
 
-2- Click  Binance Smart Chain (BEP2020)
+2- Click  Binance Smart Chain (BEP20)
 <br>
 <br>
 
